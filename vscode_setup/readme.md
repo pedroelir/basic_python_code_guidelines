@@ -50,6 +50,9 @@
             "--max-line-length=120",
         ],
    }
+   ```
+   
+   ![alt text](vscode_settings_setup.gif)
 
 8. **Save the settings.json file.**
    - `Ctrl+S`.
